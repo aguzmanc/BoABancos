@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="560"
+   id="svg4038"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="pick-a-bank.svg"
+   inkscape:export-filename="/home/vg/Project/boa/tarjeta/sauce/assets/aux/pick-a-bank.png"
+   inkscape:export-xdpi="90.055107"
+   inkscape:export-ydpi="90.055107">
+  <defs
+     id="defs4040">
+    <linearGradient
+       id="linearGradient4975">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop4977" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:0;"
+         offset="1"
+         id="stop4979" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter5019">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.2"
+         id="feGaussianBlur5021" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4975"
+       id="linearGradient5034"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-807,-1045.3622)"
+       x1="404"
+       y1="131.5"
+       x2="404"
+       y2="216.97514" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4975"
+       id="linearGradient5036"
+       gradientUnits="userSpaceOnUse"
+       x1="404"
+       y1="131.5"
+       x2="404"
+       y2="216.97514" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="355.24955"
+     inkscape:cy="355.445"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5023"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     borderlayer="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="-151,131"
+       id="guide4463" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4043">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-492.36218)">
+    <g
+       id="g5023"
+       transform="translate(-0.5,-10e-6)">
+      <path
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -7.5,497.36218 c -0.285567,0 -0.5,0.21444 -0.5,0.5 l 0,561.00002 c 0,0.2856 0.214433,0.5 0.5,0.5 l 804,0 c 0.28557,0 0.5,-0.2144 0.5,-0.5 l 0,-561.00002 c 0,-0.28556 -0.21443,-0.5 -0.5,-0.5 z m 231.72028,145.90625 340.55944,0 c 0.12096,0 0.22028,0.11272 0.22028,0.25 l 0,269.6875 c 0,0.13728 -0.0993,0.25 -0.22028,0.25 l -340.55944,0 c -0.12096,0 -0.22028,-0.11272 -0.22028,-0.25 l 0,-269.6875 c 0,-0.13728 0.0993,-0.25 0.22028,-0.25 z"
+         id="path5080"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssssssssssss" />
+      <path
+         id="rect5002"
+         transform="translate(0,492.36218)"
+         d="M 191.28125,132 C 191.12644,132 191,132.42312 191,132.9375 l 0,294.125 c 0,0.51438 0.12644,0.9375 0.28125,0.9375 l 423.4375,0 C 614.87356,428 615,427.57688 615,427.0625 l 0,-294.125 C 615,132.42312 614.87356,132 614.71875,132 l -423.4375,0 z m 69.40625,113 279.625,0 c 0.10223,0 0.1875,0.0971 0.1875,0.21875 l 0,69.5625 c 0,0.12164 -0.0853,0.21875 -0.1875,0.21875 l -279.625,0 c -0.10223,0 -0.1875,-0.0971 -0.1875,-0.21875 l 0,-69.5625 C 260.5,245.09711 260.5853,245 260.6875,245 z"
+         style="fill:#1a1a1a;fill-opacity:0.33974358;fill-rule:nonzero;stroke:none;filter:url(#filter5019)"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(0,3.4999987)"
+         id="g4991">
+        <g
+           id="g4987">
+          <rect
+             style="fill:url(#linearGradient5034);fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="rect4983"
+             width="457"
+             height="91"
+             x="-632"
+             y="-919.36218"
+             transform="scale(-1,-1)"
+             rx="0.24780683"
+             ry="0.24780683" />
+          <rect
+             ry="0.24780683"
+             rx="0.24780683"
+             transform="translate(0,492.36218)"
+             y="126"
+             x="175"
+             height="91"
+             width="457"
+             id="rect4465"
+             style="fill:url(#linearGradient5036);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="ssssssssssssssssss"
+         inkscape:connector-curvature="0"
+         id="rect4046"
+         d="m -1.5,491.36218 c -0.285567,0 -0.5,0.21444 -0.5,0.5 l 0,561.00002 c 0,0.2856 0.214433,0.5 0.5,0.5 l 804,0 c 0.28557,0 0.5,-0.2144 0.5,-0.5 l 0,-561.00002 c 0,-0.28556 -0.21443,-0.5 -0.5,-0.5 z m 231.72028,145.90625 340.55944,0 c 0.12096,0 0.22028,0.11272 0.22028,0.25 l 0,269.6875 c 0,0.13728 -0.0993,0.25 -0.22028,0.25 l -340.55944,0 c -0.12096,0 -0.22028,-0.11272 -0.22028,-0.25 l 0,-269.6875 c 0,-0.13728 0.0993,-0.25 0.22028,-0.25 z"
+         style="fill:#1b6691;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:39.69524765px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         x="397.54059"
+         y="572.24377"
+         id="text5076"><tspan
+           sodipodi:role="line"
+           id="tspan5078"
+           x="397.54059"
+           y="572.24377"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#1a1a1a;stroke:#1a1a1a;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Elige tu banco</tspan></text>
+      <text
+         id="text4459"
+         y="570.24377"
+         x="399.54059"
+         style="font-size:39.69524764999999888px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;stroke:#1a1a1a"
+           y="570.24377"
+           x="399.54059"
+           id="tspan4461"
+           sodipodi:role="line">Elige tu banco</tspan></text>
+    </g>
+  </g>
+</svg>
